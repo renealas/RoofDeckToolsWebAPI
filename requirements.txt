@@ -1,0 +1,12 @@
+# Function dependencies, for example:
+# package>=version
+google-cloud-firestore==2.0.2
+requests == 2.28.1
+beautifulsoup4
+typing
+googlemaps == 4.6.0
+dataclasses
+dataclasses_json
+pygeohash
+Pillow
+google.cloud.storage == 1.44.0
