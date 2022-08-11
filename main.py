@@ -456,8 +456,8 @@ def scrubbing(request):
             'bathRooms': listing.bathrooms,
             'bathPlus': listing.bathPlus,
 
-            'constrSize': listing.interior,
-            'lotSize': listing.exterior,
+            'constrSize': listing.exterior,
+            'lotSize': listing.interior,
 
             'description': listing.description,
 
@@ -510,8 +510,8 @@ def scrubbing(request):
             'bathRooms': listing.bathrooms,
             'bathPlus': listing.bathPlus,
 
-            'constrSize': listing.interior,
-            'lotSize': listing.exterior,
+            'constrSize': listing.exterior,
+            'lotSize': listing.interior,
 
             'description': listing.description,
 
